@@ -11,7 +11,6 @@ Ce projet est un starter pack pour créer une API avec Symfony 7.2. Il inclut un
 - PHP >= 8.1
 - Composer
 - Symfony CLI
-- Docker (optionnel, mais recommandé pour les bases de données)
 - Node.js et Yarn pour gérer les assets, si nécessaire.
 
 ## Installation
